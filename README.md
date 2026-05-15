@@ -276,6 +276,10 @@ Found a bug? Have improvements?
 - **v1.0** - Initial release with full dialog support
 - **v1.1-lite** - Lightweight version without dependencies
 
+## warning
+you must download this online from an live install and not download this on windows nor mac and put it you must download and use from installer 
+its better to use this tool in a vm (vituralbox, etc) before real hardware
+THIS IS THE FIRST DAY FOR THIS TOOL EXPECT BUGS
 ---
 
 **Created for Arch Linux 32 Community**  
