@@ -22,6 +22,8 @@ A professional bash shell script GUI installer specifically designed for **Arch 
 
 ## Requirements
 
+arch linux 32 bit is preferd since this tool was made for it but might work in the 64 bit but its recomended for the comunatiy based arch linux 32 bit
+
 ### For Full-Featured Version
 ```bash
 - Root access (sudo or direct root login)
@@ -42,6 +44,7 @@ A professional bash shell script GUI installer specifically designed for **Arch 
 ## Installation
 
 ### Option 1: Download and Make Executable
+to remind you there will be a link to use the tool use this link ONLY in the installation not download in any os exept arch linux
 ```bash
 # Full version
 sudo bash arch32-installer.sh
